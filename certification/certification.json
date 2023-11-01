@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Presence",
+        "by": "attendance at the DBS Dicoding program",
+        "image": "./certification/presence.png",
+        "category": "programming",
+        "links": {
+            "credentials": "https://skillacademy.com/sertifikat/9Y4A6M5YDSZ72E"
+        }
+    },  
+    {
+        "name": "Cloud Practitioner Essentials (Learn AWS Cloud Basics)",
+        "by": "Developer Scholarship Program Dicoding",
+        "image": "./certification/aws-dicoding.png",
+        "category": "programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/1RXY67LVMZVM"
+        }
+    },
+    {   
+        "name": "Dicodig-IdCamp",
+        "by": "Learn Web Programming Basics",
+        "image": "./certification/idcamp.png",
+        "category": "programming",
+        "links": {
+            "credentials": "https://www.example.com/certificates/12345"
+        }
+    }
+]
